@@ -1,0 +1,6 @@
+node_modules/
+.env
+db/simplex.db
+uploads/
+*.log
+.DS_Store
